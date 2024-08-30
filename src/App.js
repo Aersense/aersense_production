@@ -18,7 +18,7 @@ function App() {
       <Homescreen />
 
 
-    </div>
+    </div >
   );
 }
 
