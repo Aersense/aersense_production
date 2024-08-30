@@ -60,7 +60,7 @@ const Navbar = () => {
               mataer 1
             </a>
             <a href="" className="text-white navlink text-lg" onClick={closeSidebar}>
-              rabbit os
+              aer os
             </a>
             <a href="#research" className="text-white navlink text-lg" onClick={closeSidebar}>
               research
